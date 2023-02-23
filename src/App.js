@@ -6,7 +6,7 @@ const App = () => (
   <UnderConstruction
     background={{
       image: 'https://static.pexels.com/photos/259698/pexels-photo-259698.jpeg',
-      textColor: '#ff0000',
+      textColor: '#fff',
       overlay: {
         color: '#000',
         opacity: '.5'
